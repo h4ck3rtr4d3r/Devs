@@ -1,4 +1,4 @@
-// Aplicativo para alunos de Kabalah 2021
+// Aplicativo para alunos de Kabalah 2021!
 
 #include<iostream>
 int main()
